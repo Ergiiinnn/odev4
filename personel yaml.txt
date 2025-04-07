@@ -1,0 +1,8 @@
+id: 101
+ad: "Ayşe"
+soyad: "Yılmaz"
+dogumTarihi: "1990-05-23"
+email: "ayse.yilmaz@example.com"
+aktifCalisanMi: true
+maas: 14500.75
+pozisyon: "Yazılım Test Uzmanı"

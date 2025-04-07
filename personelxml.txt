@@ -1,0 +1,10 @@
+Personel
+    id101id
+    adAyşead
+    soyadYılmazsoyad
+    dogumTarihi1990-05-23dogumTarihi
+    emailayse.yilmaz@example.comemail
+    aktifCalisanMitrueaktifCalisanMi
+    maas14500.75maas
+    pozisyonYazılım Test Uzmanıpozisyon
+Personel
